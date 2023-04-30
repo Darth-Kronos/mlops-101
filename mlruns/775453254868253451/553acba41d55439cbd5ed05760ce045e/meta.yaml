@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/purushothamanyadav/Documents/ML/mlops-101/mlruns/775453254868253451/553acba41d55439cbd5ed05760ce045e/artifacts
+end_time: 1682821961925
+entry_point_name: ''
+experiment_id: '775453254868253451'
+lifecycle_stage: active
+run_id: 553acba41d55439cbd5ed05760ce045e
+run_name: thoughtful-bear-292
+run_uuid: 553acba41d55439cbd5ed05760ce045e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682821749842
+status: 4
+tags: []
+user_id: purushothamanyadav
